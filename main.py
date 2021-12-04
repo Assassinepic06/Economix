@@ -568,7 +568,7 @@ for filename in os.listdir('./cogs'):
 
 
 keep_alive()
-client.run('OTE2MDAzNzc1NTk1MDQwODY4.Yaj0_g.iFvmxQ1bBv8fD4kcRKxZIVj3hBY')
+client.run('TOKEN')
 
 TOKEN = os.environ.get("SECRET")
 client.run(TOKEN)
